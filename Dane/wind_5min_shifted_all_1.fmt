@@ -1,0 +1,32 @@
+  FORMAT OF THE SUBSETTED FILE
+    
+    ITEMS                      FORMAT   
+     
+ 1 Year                          I4        
+ 2 Day                           I4        
+ 3 Hour                          I3        
+ 4 Minute                        I3        
+ 5 Timeshift, sec                I7        
+ 6 Scalar B, nT                  F8.2      
+ 7 BX, nT (GSE)                  F8.2      
+ 8 BY, nT (GSE)                  F8.2      
+ 9 BZ, nT (GSE)                  F8.2      
+10 BY, nT (GSM)                  F8.2      
+11 BZ, nT (GSM)                  F8.2      
+12 RMS (timeshift),sec           I7        
+13 RMS (Phase_frnt_nrml)         F6.2      
+14 RMS (Field vector), nT        F8.2      
+15 Flow speed, km/s              F8.1      
+16 Vx Velocity, km/s, GSE        F8.1      
+17 Vy Velocity, km/s, GSE        F8.1      
+18 Vz Velocity, km/s, GSE        F8.1      
+19 Proton Density, n/cc          F7.2      
+20 Temperature, K                F9.0      
+21 X(s/c), GSE, Re               F8.2      
+22 Y(s/c), GSE, Re               F8.2      
+23 Z(s/c), GSE, Re               F8.2      
+24 X(target), GSE, Re            F8.2      
+25 Y(target), GSE, Re            F8.2      
+26 Z(target), GSE, Re            F8.2      
+
+This file was produced by  OMNIweb service
