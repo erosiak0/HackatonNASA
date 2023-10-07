@@ -1,0 +1,48 @@
+  FORMAT OF THE SUBSETTED FILE
+    
+    ITEMS                      FORMAT   
+     
+ 1 Year                          I4        
+ 2 Day                           I4        
+ 3 Hour                          I3        
+ 4 Minute                        I3        
+ 5 N of mag points               I4        
+ 6 Field Magnitude,nT            F8.2      
+ 7 Vector Mag.,nT                F8.2      
+ 8 BX, GSE, nT                   F8.2      
+ 9 BY, GSE, nT                   F8.2      
+10 BZ, GSE, nT                   F8.2      
+11 BY, GSM, nT                   F8.2      
+12 BZ, GSM, nT                   F8.2      
+13 RMS SD B scalar, nT           F8.2      
+14 RMS SD field vector, nT       F8.2      
+15 RMS SD Bx, nT (GSE)           F8.2      
+16 RMS SD By, nT (GSE)           F8.2      
+17 RMS SD Bz, nT (GSE)           F8.2      
+18 N of pla_def points           I4        
+19 N of pla_KP points            I4        
+20 N of pla_3dp points           I4        
+21 Def_Speed, km/s               F8.1      
+22 KP_Speed, km/s                F8.1      
+23 3DP_Speed, km/s               F8.1      
+24 Def_Vx,km/s                   F8.1      
+25 KP_Vx,km/s                    F8.1      
+26 3DP_Vx,km/s                   F8.1      
+27 Def_Vy, km/s                  F8.1      
+28 Kp_Vy, km/s                   F8.1      
+29 3DP_Vy, km/s                  F8.1      
+30 Def_Vz, km/s                  F8.1      
+31 KP_Vz, km/s                   F8.1      
+32 3DP_Vz, km/s                  F8.1      
+33 Def_proton Density, n/cc      F7.2      
+34 Kp_proton Density, n/cc       F7.2      
+35 3DP_proton Density, n/cc      F7.2      
+36 Def_temperature, K            F9.0      
+37 Kp_temperature, K             F9.0      
+38 3DP_temperature, K            F9.0      
+39 Def_Na/Np Ratio               F6.3      
+40 Kp_Na/Np Ratio                F6.3      
+41 3DP_Na/Np Ratio               F6.3      
+42 Wind, Xgse,Re                 F8.2      
+43 Wind, Ygse,Re                 F8.2      
+44 Wind, Zgse,Re                 F8.2      
