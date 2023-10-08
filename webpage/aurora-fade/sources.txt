@@ -1,0 +1,3 @@
+background image - https://svs.gsfc.nasa.gov/12792
+image in the about section - https://en.wikipedia.org/wiki/Magnetic_reconnection
+datasets - https://omniweb.gsfc.nasa.gov/ftpbrowser/wind_min_merge.html
